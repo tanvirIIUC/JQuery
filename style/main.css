@@ -2,7 +2,7 @@ body {
     font-family: "Lato";
     font-weight: 300;
     font-size: 1.25rem;
-    background-color: rgb(110, 220, 183);
+    background-color: rgb(101, 248, 199);
   }
   
   .form-input {
@@ -19,7 +19,7 @@ body {
   
   p.note {
     font-size: 1rem;
-    color: red;
+    color: rgb(250, 199, 199);
   }
   
   input {
