@@ -18,8 +18,8 @@ body {
   }
   
   p.note {
-    font-size: 1rem;
-    color: rgb(250, 199, 199);
+    font-size: 2rem;
+    color: rgb(8, 8, 8);
   }
   
   input {
